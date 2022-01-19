@@ -1,0 +1,36 @@
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.exe
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.deps.json
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.runtimeconfig.json
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.runtimeconfig.dev.json
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.dll
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.pdb
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.Views.dll
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\bin\Debug\netcoreapp3.1\HTML ÖDEV.Views.pdb
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.csproj.AssemblyReference.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.AssemblyInfoInputs.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.AssemblyInfo.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.csproj.CoreCompileInputs.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.MvcApplicationPartsAssemblyInfo.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.RazorAssemblyInfo.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.RazorAssemblyInfo.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\staticwebassets\HTML ÖDEV.StaticWebAssets.Manifest.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.TagHelpers.input.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.TagHelpers.output.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.RazorCoreGenerate.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.RazorTargetAssemblyInfo.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.RazorTargetAssemblyInfo.cs
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.Views.pdb
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.dll
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.pdb
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.genruntimeconfig.cache
+D:\Ödevler\HTMLÖDEV\200601065\HTML ÖDEV\obj\Debug\netcoreapp3.1\HTML ÖDEV.csproj.CopyComplete
